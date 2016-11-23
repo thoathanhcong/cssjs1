@@ -1,5 +1,5 @@
 
-	var url_popup = 'truongdaylaixethanhcong.net';
+	var url_popup = 'http://truongdaylaixethanhcong.net';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
