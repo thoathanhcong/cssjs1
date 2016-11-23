@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src=https://lh3.googleusercontent.com/1_E1wzDcAbttR_IlmOkvetB6w5753_03-32_HQY0QF1D4XL0If4dWkKjB9KSMsoVjdDnvWpplQ=w1366-h768-rw-no' width='500px'/><br/>Dạy Lái Xe Chất Lượng</a>. Học Lái Xe Cấp Tốc <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/1_E1wzDcAbttR_IlmOkvetB6w5753_03-32_HQY0QF1D4XL0If4dWkKjB9KSMsoVjdDnvWpplQ=w1366-h768-rw-no' width='500px'/><br/>Dạy Lái Xe Chất Lượng</a>. Học Lái Xe Cấp Tốc <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
